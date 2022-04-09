@@ -1,0 +1,38 @@
+body{
+
+background-image: url("images/myke-simon-atsUqIm3wxo-unsplash.jpg");
+background-size: 1500px;
+}
+h1{
+  color: white;
+  text-align: center;
+  display: none;
+}
+.dropdown{
+  top:80px;
+  left: 80px;
+   
+}
+.row{
+  padding: 100px;
+  text-align: center;
+}
+.movie-box{
+    padding: 3% 2%;
+
+}
+.card{
+  margin-right: 0px;
+  background-color: black;
+  color:white;
+  font-style: italic;
+}
+#movies{
+  text-align: center;
+}
+.unselected{
+  display:none;
+}
+.selected{
+  display: initial;
+}
